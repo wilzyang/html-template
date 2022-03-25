@@ -105,7 +105,7 @@
 .price-list .card-body { padding: 20px 30px !important; }
 
 .price-list .price-title {
-	font-size: 48px;
+	font-size: 30px;
 	font-weight: 600;
 	color: var(--themecolor, #267DF4);
 }
